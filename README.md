@@ -4,6 +4,7 @@
 This project predicts crop yield (hg/ha) using rainfall, temperature, pesticide usage, and crop type data across different countries and years. The goal is to provide insights for agricultural planning, resource allocation, and sustainable farming practices.
 
 The dataset contains 28,242 records with the following features:
+
 Area:	Country/Region where crop is grown
 
 Item: Crop type (Maize, Potatoes, Rice, etc.)
